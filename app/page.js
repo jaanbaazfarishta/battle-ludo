@@ -1,4 +1,4 @@
-import Image from "next/image";
+// app/page.js
 
 export default function Home() {
   return (
